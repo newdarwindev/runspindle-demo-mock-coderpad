@@ -1,0 +1,19 @@
+{
+  "id": "mock-coderpad",
+  "name": "Bytebench",
+  "mark": ">_",
+  "tagline": "Think clearly. Test precisely.",
+  "colors": {
+    "background": "#111827",
+    "surface": "#1e293b",
+    "text": "#e2e8f0",
+    "accent": "#8be9d0"
+  },
+  "typography": {
+    "display": "Courier New, monospace",
+    "body": "Consolas, monospace",
+    "tracking": "-.03em"
+  },
+  "style": "terminal",
+  "radius": 0
+}
