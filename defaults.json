@@ -1,0 +1,15 @@
+{
+  "app": "mock-coderpad",
+  "title": "Coderpad \u00b7 Fictional demo",
+  "port": 4306,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "coderpad",
+    "review-assessment",
+    "submit-assessment",
+    "assessment-handoff"
+  ]
+}
